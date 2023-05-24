@@ -1,4 +1,5 @@
-# Desafios-Typescript-SantanderDIO; O projeto apresentado faz parte dos desafios da plataforma Digital Innovation One, através do Santander Bootcamp Fullstack Developer.
+# Desafios-Typescript-SantanderDIO; 
+O projeto apresentado faz parte dos desafios da plataforma Digital Innovation One, através do Santander Bootcamp Fullstack Developer.
 
 # Resolvendo os desafios, exercícios 1, 2, 3 e 4 completos Typescript.
 
